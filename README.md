@@ -9,16 +9,16 @@ Once you have the fundamentals down, you'll apply that knowledge by creating alg
 Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP).
 ## table of contents
 
-1. [Basic JavaScript](##BasicJavaScript)
-2. [ES6](##ES6)
-3. [Regular Expressions](##RegularExpressions)
-4. [Debugging](##Debugging)
-5. [Basic Data Structures](##BasicDataStructures)
-6. [Basic Algorithm Scripting](##BasicAlgorithmScripting)
-7. [Object Oriented Programming](##ObjectOrientedProgramming)
-8. [Functional Programming](##FunctionalProgramming)
-9. [Intermediate Algorithm Scripting](##IntermediateAlgorithmScripting)
-10. [JavaScript Algorithms and Data Structures Projects](##JavaScriptAlgorithmsandDataStructuresProjects)
+1. [Basic JavaScript](#basic-javascript)
+2. [ES6](#ES6)
+3. [Regular Expressions](#regular-expressions)
+4. [Debugging](#debugging)
+5. [Basic Data Structures](#basic-data-structures)
+6. [Basic Algorithm Scripting](#basic-algorithm-scripting)
+7. [Object Oriented Programming](#object-oriented-programming)
+8. [Functional Programming](#functional-programming)
+9. [Intermediate Algorithm Scripting](#intermediate-algorithm-scripting)
+10. [JavaScript Algorithms and Data Structures Projects](#java-script-algorithms-and-data-structures-projects)
 
 ## Basic JavaScript
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
