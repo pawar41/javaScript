@@ -12,9 +12,14 @@ on:
   # Also trigger on page_build, as well as release created events
 
 jobs:
-  test:
+  hello.js:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: node hello.js
-      
+
+  next.js:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: node hello.js
